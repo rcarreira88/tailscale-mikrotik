@@ -26,7 +26,7 @@
 # Set PLATFORM as required for your router model. See:
 # https://mikrotik.com/products/matrix
 #
-PLATFORM="linux/amd64"
+PLATFORM="linux/arm64"
 TAILSCALE_VERSION=1.78.1
 VERSION=0.1.35
 
